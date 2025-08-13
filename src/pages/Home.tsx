@@ -1,9 +1,9 @@
-const Home = () => {
-    return (
-        <div className="my-20">
-            <h1 className="font-extrabold bg-fuchsia-800">from Hello World to Hello Lord</h1>
-        </div>
-    )
-}
+import { Card } from '../components/Card';
 
-export default Home
+export default function Home() {
+  return (
+    <main>
+      <Card />
+    </main>
+  );
+}
