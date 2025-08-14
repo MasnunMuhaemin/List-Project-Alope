@@ -1,9 +1,9 @@
-import { Card } from '../components/Card';
+import { ListProject } from "../sections";
 
 export default function Home() {
   return (
-    <main>
-      <Card />
-    </main>
+    <div className="mt-20">
+      <ListProject />
+    </div>
   );
 }
