@@ -1,23 +1,22 @@
-{
-    "version": "1.0",
-    "data": [
-        {
-        "id": 1,
-        "name": "Item One",
-        "description": "This is the first item.",
-        "price": 19.99
-        },
-        {
-        "id": 2,
-        "name": "Item Two",
-        "description": "This is the second item.",
-        "price": 29.99
-        },
-        {
-        "id": 3,
-        "name": "Item Three",
-        "description": "This is the third item.",
-        "price": 39.99
-        }
-    ]
-}
+[
+  {
+    "title": "Machine Learning Supervised: Regresi",
+    "description": "Regresi adalah jantung dari supervised learning untuk prediksi nilai numerik...",
+    "image": "/images/proyek1.png"
+  },
+  {
+    "title": "Pengenalan Machine Learning",
+    "description": "Machine learning adalah teknologi masa kini yang terus berkembang...",
+    "image": "/images/proyek2.png"
+  },
+  {
+    "title": "Pemrograman Web dengan HTML",
+    "description": "HTML adalah bahasa markup standar untuk struktur halaman web...",
+    "image": "/images/proyek3.png"
+  },
+  {
+    "title": "Pemrograman Web dengan HTML",
+    "description": "HTML adalah bahasa markup standar untuk struktur halaman web...",
+    "image": "/images/proyek3.png"
+  }
+]
