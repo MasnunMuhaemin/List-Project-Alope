@@ -2,31 +2,37 @@
   {
     "title": "Alope Course",
     "description": "Regresi adalah jantung dari supervised learning untuk prediksi nilai numerik...",
-    "image": "/images/proyek1.png"
+    "image": "/images/proyek1.png",
+    "category": "Proyek Klien"
   },
   {
     "title": "Peminjaman Map dan Peta",
     "description": "Machine learning adalah teknologi masa kini yang terus berkembang...",
-    "image": "/images/proyek1.png"
+    "image": "/images/proyek1.png",
+    "category": "Proyek Klien"
   },
   {
     "title": "Penerimaan Peserta Didik Baru",
     "description": "HTML adalah bahasa markup standar untuk struktur halaman web...",
-    "image": "/images/proyek1.png"
+    "image": "/images/proyek1.png",
+    "category": "Proyek Klien"
   },
   {
     "title": "Traveloop",
     "description": "HTML adalah bahasa markup standar untuk struktur halaman web...",
-    "image": "/images/proyek1.png"
+    "image": "/images/proyek1.png",
+    "category": "Proyek Klien"
   },
   {
     "title": "Pergantian Shift Karyawan",
     "description": "HTML adalah bahasa markup standar untuk struktur halaman web...",
-    "image": "/images/proyek1.png"
+    "image": "/images/proyek1.png",
+    "category": "Proyek Klien"
   },
   {
     "title": "Pengajuan Cuti Karyawan",
     "description": "HTML adalah bahasa markup standar untuk struktur halaman web...",
-    "image": "/images/proyek1.png"
+    "image": "/images/proyek1.png",
+    "category": "Ajang Kompetisi"
   }
 ]
