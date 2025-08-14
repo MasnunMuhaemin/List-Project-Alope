@@ -13,18 +13,18 @@ const Card = () => {
         {courses.map((course: Course, index: number) => (
           <div
             key={index}
-            className="bg-white rounded-xl shadow-sm overflow-hidden flex flex-col w-full max-w-sm"
+            className="bg-gradient-to-b from-blue-700 to-blue-200 text-white rounded-xl shadow-sm overflow-hidden flex flex-col w-full max-w-sm"
           >
             <img
               src={course.image}
               alt={course.title}
               className="w-full h-auto object-cover"
             />
-            <div className="pl-4 pr-6 pt-5 pb-5 flex flex-col text-left bg-white min-h-[150px]">
-              <h3 className="text-base font-bold text-gray-800 font-poppins mb-3 leading-snug">
+            <div className="pl-4 pr-6 pt-5 pb-5 flex flex-col text-left min-h-[150px]">
+              <h3 className="text-base font-bold font-poppins mb-3 leading-snug">
                 {course.title}
               </h3>
-              <p className="text-sm text-gray-600 font-poppins leading-relaxed">
+              <p className="text-sm font-poppins leading-relaxed">
                 {course.description}
               </p>
             </div>
