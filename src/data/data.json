@@ -1,21 +1,31 @@
 [
   {
-    "title": "Machine Learning Supervised: Regresi",
+    "title": "Alope Course",
     "description": "Regresi adalah jantung dari supervised learning untuk prediksi nilai numerik...",
     "image": "/images/proyek1.png"
   },
   {
-    "title": "Pengenalan Machine Learning",
+    "title": "Peminjaman Map dan Peta",
     "description": "Machine learning adalah teknologi masa kini yang terus berkembang...",
     "image": "/images/proyek2.png"
   },
   {
-    "title": "Pemrograman Web dengan HTML",
+    "title": "Penerimaan Peserta Didik Baru",
     "description": "HTML adalah bahasa markup standar untuk struktur halaman web...",
     "image": "/images/proyek3.png"
   },
   {
-    "title": "Pemrograman Web dengan HTML",
+    "title": "Traveloop",
+    "description": "HTML adalah bahasa markup standar untuk struktur halaman web...",
+    "image": "/images/proyek3.png"
+  },
+  {
+    "title": "Pergantian Shift Karyawan",
+    "description": "HTML adalah bahasa markup standar untuk struktur halaman web...",
+    "image": "/images/proyek3.png"
+  },
+  {
+    "title": "Pengajuan Cuti Karyawan",
     "description": "HTML adalah bahasa markup standar untuk struktur halaman web...",
     "image": "/images/proyek3.png"
   }
